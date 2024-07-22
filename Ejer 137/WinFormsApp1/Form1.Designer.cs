@@ -78,8 +78,6 @@
             gananciaNetaPromedio = new DataGridViewTextBoxColumn();
             acumCostoOprotunidad = new DataGridViewTextBoxColumn();
             costoOprtunidadProm = new DataGridViewTextBoxColumn();
-            lbl_rnd_inicio = new Label();
-            lbl_demanda_inicio = new Label();
             groupBox1.SuspendLayout();
             groupBox3.SuspendLayout();
             groupBox2.SuspendLayout();
@@ -109,7 +107,7 @@
             groupBox1.Margin = new Padding(3, 2, 3, 2);
             groupBox1.Name = "groupBox1";
             groupBox1.Padding = new Padding(3, 2, 3, 2);
-            groupBox1.Size = new Size(800, 302);
+            groupBox1.Size = new Size(801, 302);
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
             groupBox1.Text = "Parametros";
@@ -122,11 +120,11 @@
             groupBox3.Controls.Add(textBoxDesde);
             groupBox3.Controls.Add(label8);
             groupBox3.Controls.Add(button2);
-            groupBox3.Location = new Point(546, 110);
+            groupBox3.Location = new Point(547, 103);
             groupBox3.Margin = new Padding(3, 2, 3, 2);
             groupBox3.Name = "groupBox3";
             groupBox3.Padding = new Padding(3, 2, 3, 2);
-            groupBox3.Size = new Size(239, 184);
+            groupBox3.Size = new Size(239, 192);
             groupBox3.TabIndex = 17;
             groupBox3.TabStop = false;
             groupBox3.Text = "Filas a mostrar";
@@ -383,6 +381,7 @@
             // 
             // dataGridView2
             // 
+            dataGridView2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             dataGridView2.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView2.Columns.AddRange(new DataGridViewColumn[] { iteracion, stockDisponible, costoCompra, rnd, cantDemanda, ventasRealziadas, ganacias, stockRestante, gananaciasDevolucion, demandaNoSatisfecha, costoOportunidad, gananciaNeta, acumuladorVentas, ventasPromedio, acumuladorGananciasTotales, acumuladorGananciaDevolucion, acumuladorCostoAdquisicion, acumuladorGananciaNeta, gananciaNetaPromedio, acumCostoOprotunidad, costoOprtunidadProm });
             dataGridView2.Location = new Point(10, 329);
@@ -537,32 +536,11 @@
             costoOprtunidadProm.Name = "costoOprtunidadProm";
             costoOprtunidadProm.Width = 125;
             // 
-            // lbl_rnd_inicio
-            // 
-            lbl_rnd_inicio.AutoSize = true;
-            lbl_rnd_inicio.Location = new Point(816, 258);
-            lbl_rnd_inicio.Name = "lbl_rnd_inicio";
-            lbl_rnd_inicio.Size = new Size(38, 15);
-            lbl_rnd_inicio.TabIndex = 2;
-            lbl_rnd_inicio.Text = "label9";
-            lbl_rnd_inicio.Click += label9_Click;
-            // 
-            // lbl_demanda_inicio
-            // 
-            lbl_demanda_inicio.AutoSize = true;
-            lbl_demanda_inicio.Location = new Point(816, 282);
-            lbl_demanda_inicio.Name = "lbl_demanda_inicio";
-            lbl_demanda_inicio.Size = new Size(44, 15);
-            lbl_demanda_inicio.TabIndex = 3;
-            lbl_demanda_inicio.Text = "label10";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1437, 661);
-            Controls.Add(lbl_demanda_inicio);
-            Controls.Add(lbl_rnd_inicio);
             Controls.Add(dataGridView2);
             Controls.Add(groupBox1);
             Margin = new Padding(3, 2, 3, 2);
@@ -577,7 +555,6 @@
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView2).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
@@ -632,7 +609,5 @@
         private DataGridViewTextBoxColumn gananciaNetaPromedio;
         private DataGridViewTextBoxColumn acumCostoOprotunidad;
         private DataGridViewTextBoxColumn costoOprtunidadProm;
-        private Label lbl_rnd_inicio;
-        private Label lbl_demanda_inicio;
     }
 }
