@@ -1,0 +1,5 @@
+C:\Users\lucae\OneDrive\Escritorio\Nueva carpeta\WinFormsApp1.exe
+C:\Users\lucae\OneDrive\Escritorio\Nueva carpeta\WinFormsApp1.dll
+C:\Users\lucae\OneDrive\Escritorio\Nueva carpeta\WinFormsApp1.deps.json
+C:\Users\lucae\OneDrive\Escritorio\Nueva carpeta\WinFormsApp1.runtimeconfig.json
+C:\Users\lucae\OneDrive\Escritorio\Nueva carpeta\WinFormsApp1.pdb
