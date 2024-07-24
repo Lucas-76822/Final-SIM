@@ -16,8 +16,6 @@ namespace WinFormsApp1
             cbx_Politica.Items.Add("23");
             cbx_Politica.Items.Add("Otros");
             cbx_Politica.SelectedIndex = 0;
-            lbl_rnd_inicio.Text = "";
-            lbl_demanda_inicio.Text = "";
             label6.Text = "Demanda Anterior";
             textBoxValorPolitica.Visible = true;
 
