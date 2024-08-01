@@ -1,0 +1,16 @@
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\bin\Release\net6.0-windows\win-x86\WinFormsApp1.exe
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\bin\Release\net6.0-windows\win-x86\WinFormsApp1.deps.json
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\bin\Release\net6.0-windows\win-x86\WinFormsApp1.runtimeconfig.json
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\bin\Release\net6.0-windows\win-x86\WinFormsApp1.dll
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\bin\Release\net6.0-windows\win-x86\WinFormsApp1.pdb
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.Form1.resources
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.dll
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\refint\WinFormsApp1.dll
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.pdb
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\win-x86\ref\WinFormsApp1.dll
