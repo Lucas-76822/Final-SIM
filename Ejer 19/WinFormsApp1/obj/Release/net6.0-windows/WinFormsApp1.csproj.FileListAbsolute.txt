@@ -14,3 +14,19 @@ C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6
 C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.pdb
 C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\lucae\Documentos\SIM\WinFormsApp1 - copia\WinFormsApp1\obj\Release\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.exe
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lucae\Documentos\SIM\Ejer 19\WinFormsApp1\obj\Release\net6.0-windows\ref\WinFormsApp1.dll
